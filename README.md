@@ -1,2 +1,0 @@
-# BejewelediPhone
-Bejeweled iPhone version
